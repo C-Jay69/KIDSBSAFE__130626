@@ -1,0 +1,6 @@
+{
+  "name": "Spykids",
+  "description": "An ethical parental safety platform designed to protect minor children from grooming, predators, bullying, cyber-scams, and unsafe online interactions while strictly preserving child privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
